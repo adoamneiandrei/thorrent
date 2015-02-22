@@ -1,0 +1,25 @@
+{
+  "name": "thorrent",
+  "version": "1.0.0",
+  "description": "thorrent is a set of bindings for the libtorrent",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0x4139/thorrent.git"
+  },
+  "keywords": [
+    "libtorrent",
+    "nodejs",
+    "torrent"
+  ],
+  "author": "0x4139@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x4139/thorrent/issues"
+  },
+  "homepage": "https://github.com/0x4139/thorrent"
+}
