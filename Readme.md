@@ -27,3 +27,6 @@ main = function() {
 
 main();
 ```
+
+#Pull Requests
+please do send them i want to improve this library as much as possible :)
