@@ -1,3 +1,8 @@
+##Thorrent
+node.js bindings for rasterbar's libbtorrent (www.libtorrent.org)
+
+##Example
+```
 var libTorrent = require("../index");
 var session = new libTorrent.session();
 
@@ -21,3 +26,4 @@ main = function() {
 };
 
 main();
+```
